@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clienic-website/static/css/main.68ddd4ad.css",
+    "main.js": "/clienic-website/static/js/main.8b836b31.js",
+    "static/js/453.fb4e0861.chunk.js": "/clienic-website/static/js/453.fb4e0861.chunk.js",
+    "static/media/hero.jpg": "/clienic-website/static/media/hero.e564d915eefa6d870d2c.jpg",
+    "static/media/logo.jpeg": "/clienic-website/static/media/logo.1e2f898b08ed724b8f4c.jpeg",
+    "index.html": "/clienic-website/index.html",
+    "main.68ddd4ad.css.map": "/clienic-website/static/css/main.68ddd4ad.css.map",
+    "main.8b836b31.js.map": "/clienic-website/static/js/main.8b836b31.js.map",
+    "453.fb4e0861.chunk.js.map": "/clienic-website/static/js/453.fb4e0861.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ddd4ad.css",
+    "static/js/main.8b836b31.js"
+  ]
+}
