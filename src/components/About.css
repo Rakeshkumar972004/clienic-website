@@ -1,0 +1,23 @@
+.about {
+  text-align: center;
+}
+
+.about h2 {
+  margin-bottom: 20px;
+  color: #0a66c2;
+}
+
+.about-box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  gap: 30px;
+}
+
+.about-box div {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  flex: 1;
+}

@@ -1,0 +1,33 @@
+.contact {
+  text-align: center;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 500px;
+  margin: 30px auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.contact-form button {
+  background: #0a66c2;
+  color: white;
+  padding: 12px;
+  border-radius: 25px;
+}
+
+.contact-form button:hover {
+  background: #084c96;
+}
+
+.clinic-info {
+  margin-top: 20px;
+}
